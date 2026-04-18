@@ -1,0 +1,10 @@
+Inicio
+Passo um: Escrever ("Olá mundo!");
+Fim
+
+#include <stdio.h>
+int main (void)
+{
+	printf ("Ola mundo!");
+
+}
