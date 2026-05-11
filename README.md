@@ -1,6 +1,6 @@
 # 📚 Algoritmos em C — Faculdade Dom Bosco
 
-Repositório com exercícios desenvolvidos na disciplina de **Algoritmos** do curso de Tecnologia da Informação da **Faculdade Dom Bosco (FDB)**, ao longo de 2024.
+Repositório com exercícios desenvolvidos na disciplina de **Algoritmos** do curso de Analise e Desenvolvimento de Sistemas da **Faculdade Dom Bosco (FDB)**, ao longo de 2024.
 
 Todos os programas foram escritos em linguagem **C** e cobrem desde conceitos introdutórios até estruturas de dados como vetores e matrizes.
 
@@ -98,7 +98,7 @@ gcc Numero_par_ou_impar.c -o par_impar
 ./par_impar
 ```
 
-> Os arquivos `.exe` incluídos no repositório são compilações para Windows e podem ser executados diretamente nesse sistema.
+
 
 ---
 
